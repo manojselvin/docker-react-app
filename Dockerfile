@@ -1,7 +1,7 @@
 FROM node:alpine3.10 as builder
 
 WORKDIR /var/www/html/react-app
-COPY package.json .
+COPY package*.json ./
 RUN npm install
 COPY . .
 
