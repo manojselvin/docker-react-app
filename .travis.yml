@@ -19,4 +19,4 @@ deploy:
         branch: master
     access_key_id: $AWS_ACCESS_KEY_ID
     secret_access_key: 
-        secure: "$AWS_SECRET_ACCESS_KEY"
+        secure: "UyuGtSN+bzwLDzPtkBGeRDvZVkejSNq9lrSR9JXnWEqKUKjx+dgFVf8Z1F/yeBAI70ots1jqFPFyKohJ0dw38PBst7hKCbNlews3IvS4Hm6EyJh5d/mDWHGW0jiwsF2K1YtOiszt37AHICabRvnf8FnA3crgd1OU+i0h3pSYprZKx9fXlL0+EGF70eccIRW2O2cTTYxVxdxfQP4M6I4GTwS6bACyben+yrL2vTP61lblEht7jrXfCuFNme4vC+U95Ik25edekv873lk+d4sdPXcarEzv7qTo1riI8+15JwB114pj1bg3Ep9/KdFP227fbUK676mzp4Y882qSXV2hXoUXbsPuXFx1JU3XrS1Im4jxiHkcSkIg6unFhCxPlbcdEGf7SIX3xRos7Ou9VHkVeN03btXH+GiuWfWzfr+yAeqMKp3tEMdvZ83abAo7LlAXjUrJPCzy2FA7ffOouUXZd2hTBAAYDLw4mupIWV99qc2tq5Mz4sjeEIvqg3AmV6Q7kr1vPeM1azl3kHlOwR6qq1iNeVsKqE0S0H0Rv2Dd2nkHlARTi3fpp+slyU9TQuOERzwApHEOGz+I2Ciztayh6qrtyYgNxwy5BgD7q9Bf8/frPSPGskp5BYKx/b/6vwqwgPBrbQAPdnVjEIu78uSJmvxt+KhWCFItuS6i42MhY/8="
